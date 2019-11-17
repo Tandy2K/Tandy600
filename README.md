@@ -15,4 +15,4 @@ _Please get in touch if you have items to contibute or need help imaging/scannin
 Recent additions
 
 - 11/9/2019 [Microsoft Works](https://github.com/Tandy2K/Tandy600/blob/master/Software/MSWorks/MSWorks.pdf)
-- 11/9/2019 [Tandy 600 FAQ V3](https://github.com/Tandy2K/Tandy600/blob/master/Tandy%20600%20FAQ%20V3.pdf)
+- 11/9/2019 [Tandy 600 FAQ V3](https://github.com/Tandy2K/Tandy600/blob/master/Hardware/Tandy%20600%20FAQ%20V3.pdf)
